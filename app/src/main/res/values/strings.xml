@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="text_menu_item">Medium Text</string>
+    <string name="menu_item_scores">рекорды</string>
+    <string name="menu_item_settings">настройки</string>
+    <string name="menu_item_help">помощь/p
+        чтение с txt
+    </string>
+    <string name="menu_item_play">игра</string>
+    <string-array name="cat_names">
+        <item>Первый</item>
+        <item>второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+        <item>Пятый</item>
+        <item>Шестой</item>
+
+    </string-array>
+    <string name="title_activity_qwq">qwq</string>
+    <string name="help">помощь</string>
+</resources>
